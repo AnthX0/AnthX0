@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Victor A. Gonzalez.
+- 👋 Hi, I’m Victor Gonzalez.
 - 👀 I’m interested in coding and music!
 - 🌱 I’m currently learning Java and Unity.
 - 💞️ I’m looking to share my projects with the world.
