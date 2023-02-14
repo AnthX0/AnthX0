@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AnthX0
-- 👀 I’m interested in videogames and music!
+- 👋 Hi, I’m Victor A. Gonzalez.
+- 👀 I’m interested in coding and music!
 - 🌱 I’m currently learning Java and Unity.
-- 💞️ I’m looking to collaborate on my projects :)
+- 💞️ I’m looking to share my projects with the world.
 - 📫 How to reach me: gmail = victorglezb@gmail.com
 
 <!---
