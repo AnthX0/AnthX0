@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Gonzalez.
-- 👀 I’m interested in coding and music!
-- 🌱 I’m currently learning Java and Unity.
+- 👀 I’m interested in QA testing and music theory!
+- 🌱 I’m currently learning Java and JavaScript.
 - 💞️ I’m looking to share my projects with the world.
 - 📫 How to reach me: gmail = victorglezb@gmail.com
 
